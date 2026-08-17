@@ -1,0 +1,15 @@
+LTspice 24.1.7 for Windows
+Circuit: D:\electro-robot\outils\LTSpice\BC547\fonction-logique-NON.net
+Start Time: Mon Aug 17 11:02:07 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.494 seconds.
+
+Files loaded:
+D:\electro-robot\outils\LTSpice\BC547\fonction-logique-NON.net
+C:\Users\bkhro\AppData\Local\LTspice\lib\cmp\standard.bjt
+
