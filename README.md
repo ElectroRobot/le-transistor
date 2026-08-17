@@ -1,2 +1,20 @@
-# le-transistor
-Ce repository enregistre l'ensemble des fichiers du projet Ltspice créé pour le cours "le transistor"
+# Un premier exemple d'application : la porte logique NON
+
+Ce repository enregistre l'ensemble des fichiers créés pour la simulation sous Ltspice créé le premier exemple d'application du cours **Le Transistor** proposé par Electro Robot. 
+Plus de détails, vous pouvez vous faire référence à notre cours : [Le transistor](https://electro-robot.com/electronique/composants/le-transistor)
+
+# Comment apprendre en ligne avec Electro-Robot ?
+
+La formation et les cours proposés par electro-robot pour vous initier à l'électronique, à la robotique et à la programmation orientée machine s'appuient sur des cours et des  activités qui répondent à divers objectifs pédagogiques et académiques. Avec Electro-Robot, nous vous invitons à découvrir nos cours et une liste d'activités complète uniquement pour vous en tant qu'étudiant, animateur ou formateur afin d'améliorer vos compétences et votre vision pédagogique.
+
+Pour plus de détails : <a href="https://electro-robot.com/les-activites" rel="dofollow">Les activités avec Electro-Robot</a>
+
+# Les solutions ?
+
+<a href="https://electro-robot.com/les-outils" rel="dofollow"><strong>Les outils et les solutions</strong></a><br/>
+
+Pour vous aider dans vos simulations et vos projets d’apprentissage en électronique, <a href="https://electro-robot.com/" rel="dofollow">Electro-Robot</a> met à votre disposition une sélection de logiciels gratuits et en libre accès, selon les indications de leurs éditeurs, entreprises et organisations. Ces outils offrent une variété de fonctionnalités, allant de la simulation de circuits analogiques et numériques à l’analyse fréquentielle des composants, en passant par la modélisation de systèmes complexes.
+
+<strong>LTspice</strong>: développé par la société Analog Devices, est un logiciel de simulation de circuits électroniques basé sur le moteur SPICE. Largement utilisé dans les domaines professionnel, académique et industriel, il est idéal pour des projets complexes ou de grande envergure. LTspice propose des analyses approfondies, notamment des graphiques de courants et de tensions ainsi que des évaluations de stabilité. Sa capacité à modéliser des comportements non linéaires complexes et sa vaste bibliothèque de composants en font un outil puissant. Toutefois, son interface peut sembler dépassée, et sa prise en main peut s’avérer difficile pour les débutants.
+
+<a href="https://electro-robot.com/" rel="dofollow"><strong>Electro-Robot</strong></a>
