@@ -1,6 +1,6 @@
-# Un premier exemple d'application : la porte logique NON
+# Exemples d'application : le transistor
 
-Ce repository enregistre l'ensemble des fichiers créés pour la simulation sous Ltspice créé le premier exemple d'application du cours **Le Transistor** proposé par Electro Robot. 
+Ce repository enregistre l'ensemble des fichiers créés pour les différentes simulations sous Ltspice proposé pour les exemples d'application du cours **Le Transistor**. 
 Plus de détails, vous pouvez vous faire référence à notre cours : [Le transistor](https://electro-robot.com/electronique/composants/le-transistor)
 
 # Comment apprendre en ligne avec Electro-Robot ?
